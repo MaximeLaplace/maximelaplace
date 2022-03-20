@@ -2,6 +2,7 @@
     <strong>
         Maxime Laplace
     </strong>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=C7F2FF&center=true&vCenter=true&multiline=true&lines=Maxime+Laplace)](https://git.io/typing-svg)
     <br><br>
 </h1>
 
