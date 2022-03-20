@@ -7,6 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=45D9FF&center=true&vCenter=true&multiline=true&lines=Maxime+Laplace)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=32a83a&height=100&width=1000&lines=Always+learning+new+things...;Full-stack+web+and+mobile+developer+🖥;Open+source+lover+🚀;Feel+free+to+connect+to+me+📫)](https://github.com/qbecb1zen)
+
 
 <!--
 **MaximeLaplace/maximelaplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
