@@ -2,8 +2,7 @@
     <strong>
         Maxime Laplace
     </strong>
-    <br>
-    <br>
+    <br><br>
 </h1>
 
 
