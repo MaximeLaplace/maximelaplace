@@ -5,7 +5,7 @@
     <br><br>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=45D9FF&lines=Maxime+Laplace)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=45D9FF&height=100&width=1000&lines=Maxime+Laplace)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=32a83a&height=100&width=1000&lines=Always+learning+new+things...;Full-stack+web+and+mobile+developer+🖥;Open+source+lover+🚀;Feel+free+to+connect+to+me+📫)](https://github.com/qbecb1zen)
 
