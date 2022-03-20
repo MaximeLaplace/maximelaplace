@@ -1,13 +1,8 @@
-<h1 align="center">
-    <strong>
-        Maxime Laplace
-    </strong>
-    <br><br>
-</h1>
+<img src="assets/title banner.gif" alt="Maxime Laplace" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=45D9FF&size=32&height=100&width=1000&lines=Maxime+Laplace)](https://git.io/typing-svg)
 
-<img src="assets/title banner.gif" alt="hi" />
+
 
 
 <!--
