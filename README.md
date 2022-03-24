@@ -1,6 +1,6 @@
 <img src="assets/title banner.gif" alt="Maxime Laplace" />
 
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there! <img src="https://github.com/MaximeLaplace/maximelaplace/blob/main/assets/wave.gif?raw=true" width="30px">
 
 My name is <b>Maxime Laplace</b>, I am a French full stack developer based in Paris.  
 I am a entering the last year of my Master of Engineering in Computer Science at [CentraleSupélec](https://www.centralesupelec.fr).
@@ -9,7 +9,7 @@ I love working on ambitious projects, and I am trying my best to apply my skills
 
 ---
 
-# My tech stack
+# My tech stack <img src="https://github.com/MaximeLaplace/maximelaplace/blob/main/assets/stack.gif?raw=true" width="30px">
 
 ### 🔧 Languages I master
 
