@@ -21,11 +21,11 @@ I love working on ambitious projects, and I am trying my best to apply my skills
 --
 ### Frontend development
 
-<code><a href="https://vuejs.org/"><img alt="Vuejs" title="Vuejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height="42"></a></code>
+<code><a href="https://vuejs.org/"><img alt="VueJS" title="VueJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height="42"></a></code>
 <code><a href="https://reactjs.org/"><img alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="42"></a></code>
 <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
 <code><a href="https://www.cypress.io/"><img alt="Cypress" title="Cypress" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" height="42"></a></code>
-<code><a href="https://jestjs.io/fr/"><img alt="Jest" title="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="42"></a></code>
+<code><a href="https://jestjs.io/"><img alt="Jest" title="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="42"></a></code>
 <code><a href="https://webpack.js.org/"><img alt="Webpack" title="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height="42"></a></code>
 <code><a href="https://babeljs.io/"><img alt="Babel" title="Babel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" height="42"></a></code>
 --
@@ -35,7 +35,7 @@ I love working on ambitious projects, and I am trying my best to apply my skills
 <code><a href="https://nodejs.org/"><img alt="NodeJS" title="NodeJS" src="assets/node-logo.png" height="42"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="assets/flask-logo.png" height="42"></a></code>
 <code><a href="https://nestjs.com/"><img alt="NestJS" title="NestJS" src="https://docs.nestjs.kr/assets/logo-small.svg" height="42"></a></code>
-<code><a href="https://firebase.google.com/"><img alt="FireBase" title="FireBase" src="assets/firebase-logo.png" height="42"></a></code>
+<code><a href="https://firebase.google.com/"><img alt="Firebase" title="Firebase" src="assets/firebase-logo.png" height="42"></a></code>
 --
 
 ### Databases
