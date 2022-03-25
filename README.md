@@ -7,22 +7,24 @@ I am a entering the last year of my Master of Engineering in Computer Science at
 
 I love working on ambitious projects, and I am trying my best to apply my skills for the greater good.
 
+<br>
+<p align="center">
+<code><a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a></code>
+<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="42"></a></code><br>
+  <i>My languages</i>
+</p>
+
 ---
 
 # My tech stack <img src="https://github.com/MaximeLaplace/maximelaplace/blob/main/assets/stack.gif?raw=true" width="30px">
 
-### Languages I master
-
-<code><a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a></code>
-<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="42"></a></code>
-<code><a href="https://developer.mozilla.org/docs/Web/HTML"><img alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a></code>
-<code><a href="https://developer.mozilla.org/docs/Web/CSS"><img alt="CSS" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a></code>
---
 ### Frontend development
 
 <code><a href="https://vuejs.org/"><img alt="VueJS" title="VueJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height="42"></a></code>
 <code><a href="https://reactjs.org/"><img alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="42"></a></code>
+<code><a href="https://developer.mozilla.org/docs/Web/HTML"><img alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a></code>
+<code><a href="https://developer.mozilla.org/docs/Web/CSS"><img alt="CSS" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a></code>
 <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
 <code><a href="https://www.cypress.io/"><img alt="Cypress" title="Cypress" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" height="42"></a></code>
 <code><a href="https://jestjs.io/"><img alt="Jest" title="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="42"></a></code>
@@ -55,4 +57,3 @@ I love working on ambitious projects, and I am trying my best to apply my skills
 <code><a href="https://www.docker.com/"><img alt="Docker" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="42"></a></code>
 <code><a href="https://aws.amazon.com/"><img alt="AWS" title="AWS" src="assets/aws-logo.png" height="42"></a></code>
 <code><a href="https://console.cloud.google.com/"><img alt="GCP" title="GCP" src="assets/gcp-logo.png" height="42"></a></code>
---
