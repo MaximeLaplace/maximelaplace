@@ -42,13 +42,16 @@ I love working on ambitious projects, and I am trying my best to apply my skills
 <code><a href="https://www.mysql.com/"><img alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="42"></a></code>
 <code><a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height="42"></a></code>
 <code><a href="https://redis.io/"><img alt="Redis" title="Redis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" height="42"></a></code>
-<code><a href="https://neo4j.com/"><img alt="Neo4j" title="Neo4j" src="assets/neo4j-logo" height="42"></a></code>
-<code><a href="https://typeorm.io/#/"><img alt="TypeORM" title="TypeORM" src="assets/typeorm-logo" height="42"></a></code>
+<code><a href="https://neo4j.com/"><img alt="Neo4j" title="Neo4j" src="assets/neo4j-logo.png" height="42"></a></code>
+<code><a href="https://typeorm.io/#/"><img alt="TypeORM" title="TypeORM" src="assets/typeorm-logo.png" height="42"></a></code>
+<code><a href="https://www.sqlalchemy.org/"><img alt="SQLAlchemy" title="SQLAlchemy" src="https://avatars.githubusercontent.com/u/6043126?v=4&s=400" height="42"></a></code>
 --
 
 ### DevOps
-
-
+<code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="assets/github-logo.png" height="42"></a></code>
+<code><a href="https://about.gitlab.com/"><img alt="GitLab" title="GitLab" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" height="42"></a></code>
+<code><a href="https://www.docker.com/"><img alt="Docker" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="42"></a></code>
+<code><a href="https://aws.amazon.com/"><img alt="AWS" title="AWS" src="assets/aws-logo.png" height="42"></a></code>
 --
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
 <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
