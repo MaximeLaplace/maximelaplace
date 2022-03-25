@@ -8,10 +8,13 @@ I am a entering the last year of my Master of Engineering in Computer Science at
 I love working on ambitious projects, and I am trying my best to apply my skills for the greater good.
 
 ---
+<code><a href=""><img alt="" title="" src="" height="42"></a></code>
+
+
 
 # My tech stack <img src="https://github.com/MaximeLaplace/maximelaplace/blob/main/assets/stack.gif?raw=true" width="30px">
 
-### Languages I master 🔧
+### Languages I master
 
 <code><a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a></code>
@@ -30,6 +33,10 @@ I love working on ambitious projects, and I am trying my best to apply my skills
 <code><a href="https://babeljs.io/"><img alt="Babel" title="Babel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" height="42"></a></code>
 --
 ### Backend development
+
+<code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="42"></a></code>
+<code><a href="https://nodejs.org/"><img alt="NodeJS" title="NodeJS" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42"></a></code>
+<code><a href="https://nodejs.org/"><img alt="NodeJS" title="NodeJS" src="assets/flask.png" height="42"></a></code>
 
 
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
