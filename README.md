@@ -36,7 +36,7 @@ I love working on ambitious projects, and I am trying my best to apply my skills
 <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="42"></a></code>
 <code><a href="https://nodejs.org/"><img alt="NodeJS" title="NodeJS" src="assets/node-logo.png" height="42"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="assets/flask-logo.png" height="42"></a></code>
-<code><a href="https://nestjs.com/"><img alt="NestJS" title="NestJS" src="https://docs.nestjs.kr/assets/logo-small.svg" height="42"></a></code>
+<code><a href="https://nestjs.com/"><img alt="NestJS" title="NestJS" src="https://docs.nestjs.com/assets/logo-small.svg" height="42"></a></code>
 <code><a href="https://firebase.google.com/"><img alt="Firebase" title="Firebase" src="assets/firebase-logo.png" height="42"></a></code>
 --
 
