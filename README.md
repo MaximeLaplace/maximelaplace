@@ -21,8 +21,8 @@ I love working on ambitious projects, and I am trying my best to apply my skills
 
 ### Frontend development
 
-<code><a href="https://vuejs.org/"><img alt="VueJS" title="VueJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height="42"></a></code>
 <code><a href="https://reactjs.org/"><img alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="42"></a></code>
+<code><a href="https://vuejs.org/"><img alt="VueJS" title="VueJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height="42"></a></code>
 <code><a href="https://developer.mozilla.org/docs/Web/HTML"><img alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a></code>
 <code><a href="https://developer.mozilla.org/docs/Web/CSS"><img alt="CSS" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a></code>
 <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
@@ -33,8 +33,8 @@ I love working on ambitious projects, and I am trying my best to apply my skills
 --
 ### Backend development
 
-<code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="42"></a></code>
 <code><a href="https://nodejs.org/"><img alt="NodeJS" title="NodeJS" src="assets/node-logo.png" height="42"></a></code>
+<code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="42"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="assets/flask-logo.png" height="42"></a></code>
 <code><a href="https://nestjs.com/"><img alt="NestJS" title="NestJS" src="https://docs.nestjs.com/assets/logo-small.svg" height="42"></a></code>
 <code><a href="https://firebase.google.com/"><img alt="Firebase" title="Firebase" src="assets/firebase-logo.png" height="42"></a></code>
