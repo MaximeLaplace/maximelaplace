@@ -2,8 +2,8 @@
 
 # Hey there! <img src="https://github.com/MaximeLaplace/maximelaplace/blob/main/assets/wave.gif?raw=true" width="30px">
 
-My name is <b>Maxime Laplace</b>, I am a French full stack developer based in Paris.  
-I am in my last year of my Master of General Engineering at [CentraleSupélec](https://www.centralesupelec.fr), working part time at [OVRSEA](https://ovrsea.com) as a software engineering.
+My name is <b>Maxime Laplace</b>, I am a French Software Engineer based in Paris.  
+After finishing my Master of General Engineering at [CentraleSupélec](https://www.centralesupelec.fr), I now work as a Software Engineer at [DataDog](https://www.datadoghq.com/)
 
 I love working on ambitious projects, and I am trying my best to apply my skills for the greater good.
 
