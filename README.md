@@ -7,6 +7,7 @@ After finishing my Master of General Engineering at [CentraleSupélec](https://w
 
 I love working on ambitious projects, and I am trying my best to apply my skills for the greater good.
 
+<!--
 <br>
 <p align="center">
 <code><a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42"></a></code>
