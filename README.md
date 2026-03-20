@@ -2,8 +2,10 @@
 
 # Hey there! <img src="https://github.com/MaximeLaplace/maximelaplace/blob/main/assets/wave.gif?raw=true" width="30px">
 
-My name is <b>Maxime Laplace</b>, I am a French Software Engineer based in Paris.  
-When I'm not writing crappy code, I'm working as a Software Engineer at [Datadog](https://www.datadoghq.com/) on the Continuous Profiler product.
+I'm **Maxime Laplace**, a software engineer based in Paris.<br />
+I currently work at [Datadog](https://www.datadoghq.com/) on the **Continuous Profiler** product.
+
+
 
 
 <!--
