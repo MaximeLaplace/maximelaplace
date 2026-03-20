@@ -1,11 +1,10 @@
-<img src="assets/title banner.gif" alt="Maxime Laplace" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Maxime%20Laplace&textBg=false&fontColor=FFFFFF&fontSize=70&desc=Software%20Engineer%20at%20Datadog&descAlignY=70" alt="Maxime Laplace" />
 
 # Hey there! <img src="https://github.com/MaximeLaplace/maximelaplace/blob/main/assets/wave.gif?raw=true" width="30px">
 
 My name is <b>Maxime Laplace</b>, I am a French Software Engineer based in Paris.  
-After finishing my Master of General Engineering at [CentraleSupélec](https://www.centralesupelec.fr), I now work as a Software Engineer at [Datadog](https://www.datadoghq.com/)
+When I'm not writing crappy code, I'm working as a Software Engineer at [Datadog](https://www.datadoghq.com/) on the Continuous Profiler product.
 
-I love working on ambitious projects, and I am trying my best to apply my skills for the greater good.
 
 <!--
 <br>
